@@ -1,0 +1,8 @@
+#Liceo{border: 2px solid black; padding: 20px; font-size: 18px; background-color: lightpurple; border-radius: 10px;}
+h1{color:red; text-align: center;}
+h2{color:green; text-align: center; margin-top: 10px; margin-bottom: 10px;}
+p{color: orange; font-size: 20px; text-align: center;}
+ol{border: 1px solid black; line-height: 3; font-weight: normal; border-radius: 10px; background-color: yellow; border-spacing: 10px; padding: 20px;}
+body{background-color: lightblue;}
+form{margin-top: 10px; margin-bottom; 10px;}
+img{img-align: center;} 
